@@ -85,6 +85,7 @@ Markdown.
 + Patel, Pratham
     - Become more proficient and efficient with GitHub and Python
     - Get a deeper understanding and appreciate of the Data Science workflow
+    - Understand collaboration and real project creation on GitHub
 + Yan, Jun
     - Make data science more accessible to undergraduates
     - Co-develop a Quarto book in collaboration with the students
