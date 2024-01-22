@@ -82,6 +82,9 @@ Markdown.
 + Last, First
     - Wish 1
     - Wish 2
++ Patel, Pratham
+    - Become more proficient and efficient with GitHub and Python
+    - Get a deeper understanding and appreciate of the Data Science workflow
 + Yan, Jun
     - Make data science more accessible to undergraduates
     - Co-develop a Quarto book in collaboration with the students
