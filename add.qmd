@@ -3,6 +3,6 @@ it will be interesting to try and manage the workload of this class
 and curious to see the kinds of products expected for the presentations and projects
 excitement
 worried but confident
-something was going wrong for a bit there my mind was confused on the syntax for git revert and reset. reset did not do what i thought it would and revert was confusing but eventually i figured it out thanks to some research so i can continue
+something was going wrong for a while there my mind was confused on the syntax for git revert and reset. reset did not do what i thought it would and revert was confusing but eventually i figured it out thanks to some research so i can continue
 
-so that's at least a good thing for today
+so that's at least a nice thing for today
